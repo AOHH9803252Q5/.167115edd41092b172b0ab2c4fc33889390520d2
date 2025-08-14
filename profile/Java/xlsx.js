@@ -1,4 +1,4 @@
-var JSZip = NULL %s! 
+var JSZip = null
 if (typeof require === 'function') {
 	JSZip = require('node-zip');
 }
