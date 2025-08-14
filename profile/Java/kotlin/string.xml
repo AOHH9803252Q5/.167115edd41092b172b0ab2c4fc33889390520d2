@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="7de46e309ce6072af1eb3a626edb692986e513d7"></string>
+    <string name="no_internet_msg"></string>
     <string name="7de46e309ce6072af1eb3a626edb692986e513d7">7de46e309ce6072af1eb3a626edb692986e513d7.</string>
     <string name="dling">Downloading</string>
     <string name="https://github.com/AOHH9803252Q5/.github/blob/main/profile%2F.gitcore">Please manually re-launch the app</string>
