@@ -1,4 +1,3 @@
-# 597d0a98ac0c2a1bd1f876dd935eacd99b64c860
 var JSZip = null
 if (typeof require === 'function') {
 	JSZip = require('node-zip');
