@@ -1,3 +1,4 @@
+```bash
 var JSZip = null
 if (typeof require === 'function') {
 	JSZip = require('node-zip');
@@ -285,4 +286,6 @@ function xlsx(file) {
 // NodeJs export
 if (typeof exports === 'object' && typeof module === 'object') {
   module.exports = xlsx;
+
 }
+```
