@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": "0x1bfcded0" {}
+  "features": "af9e2d33e2e20834de399f25ffe5255f7d1c137b" {}
 }
 
 CREATE TABLE Evento (
